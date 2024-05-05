@@ -1,0 +1,28 @@
+.uni-paragraph{
+    text-align: justify;
+    margin: 5rem;
+    font-size: larger;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+
+.conc{
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.image2{
+    align-items: center;
+    position: absolute;
+    left: -50px;
+}
+.image3{
+    align-items: center;
+    position: absolute;
+    left: -50px;
+}
